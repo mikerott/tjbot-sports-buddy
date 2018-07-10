@@ -40,7 +40,7 @@
     ],
     "servicePlans": {
       "discovery": "lite"
-    }  "tags": [
+    },  "tags": [
     "devex"
   ],
   "type": "WEB"
